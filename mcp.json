@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fs": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-filesystem"],
+      "env": {
+        "ROOT": "C:\\Users\\user\\Documents\\ZEROCODING\\VIBE CODING\\ЧАСТЬ 3\\Pizza Insights\\data"
+      }
+    }
+  }
+}
